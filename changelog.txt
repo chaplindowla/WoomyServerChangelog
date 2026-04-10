@@ -1,1 +1,3 @@
-
+# 4/10/2026
+- Made a changelog(Which is what you are currently reading)
+- Renamed the server to "The Arrasverse"
